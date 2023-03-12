@@ -1,0 +1,16 @@
+body{
+ color: white;
+ background-color: black;
+ font-family: sans-serif;
+}
+
+h1{
+ font-size: 4.5em;
+}
+
+button{
+ background-color: black;
+ color: white;
+ padding: 25px 50px;
+ font-size: 3em;
+}
